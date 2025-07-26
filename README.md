@@ -40,7 +40,7 @@ Done! 🎉 The extension should now be visible in your browser.
 Tip: Pin it to your toolbar for quick access.
 
 🚧 Development
-Built using HTML, CSS, JavaScript (Vanilla or React depending on your setup)
+Built using HTML, CSS, JavaScript
 
 Lightweight, privacy-focused, and local-first
 
