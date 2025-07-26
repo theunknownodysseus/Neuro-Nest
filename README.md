@@ -16,17 +16,6 @@ Stay focused, track your energy and stress, and get smart nudges throughout the 
 
 ---
 
-## 🖼️ Screenshots
-
-
-![Dashboard](screenshot/Screenshot 2025-07-26 195332.png)  
-![Mood Check-in](screenshots/check-in.png)  
-![AI Coach](screenshots/ai-coach.png)  
-![Settings](screenshots/settings.png)  
-![Goals](screenshots/goals.png)
-
----
-
 ## 📦 Installation Guide (Unzipped Extension)
 
 You can load the extension manually in your browser for development or testing.
