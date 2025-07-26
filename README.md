@@ -24,7 +24,7 @@ You can load the extension manually in your browser for development or testing.
 
 1. **Clone or Download** the repository:
    ```
-   git clone https://github.com/yourusername/neuro-nest.git
+   git clone https://github.com/theunknownodysseus/Neuro-Nest.git
 Or download the ZIP file and extract it.
 
 Open Chrome, go to:
