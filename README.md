@@ -33,7 +33,7 @@ Enable “Developer mode” (top right toggle).
 
 Click on “Load unpacked”.
 
-Select the folder where you extracted the Neuro Nest extension.
+Select the folder where you extracted the Neuro Nest extension. There is a zip file named neuronest inside your repo now, extract that.
 
 Done! 🎉 The extension should now be visible in your browser.
 
