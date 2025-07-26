@@ -19,7 +19,7 @@ Stay focused, track your energy and stress, and get smart nudges throughout the 
 ## 🖼️ Screenshots
 
 
-![Dashboard](screenshots/dashboard.png)  
+![Dashboard](screenshot/Screenshot 2025-07-26 195332.png)  
 ![Mood Check-in](screenshots/check-in.png)  
 ![AI Coach](screenshots/ai-coach.png)  
 ![Settings](screenshots/settings.png)  
