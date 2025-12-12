@@ -1,8 +1,8 @@
 
 # 🧠 Neuro Nest - AI-Powered Productivity & Wellness Extension
 
-**Neuro Nest** is a privacy-first browser extension that gives you real-time insights into your mental state, productivity, and emotional well-being — powered by AI. [web:9]  
-Stay focused, track your energy and stress, and get smart nudges throughout the day to help you work better and feel better. [web:9]
+**Neuro Nest** is a privacy-first browser extension that gives you real-time insights into your mental state, productivity, and emotional well-being — powered by AI.
+Stay focused, track your energy and stress, and get smart nudges throughout the day to help you work better and feel better. 
 
 ---
 
@@ -19,13 +19,13 @@ Stay focused, track your energy and stress, and get smart nudges throughout the 
 
 ## 🔑 Setup (.env)
 
-To use the AI Wellness Coach, create a `.env` file in the project root and add your OpenRouter API key: [web:9][web:12]
+To use the AI Wellness Coach, create a `.env` file in the project root and add your OpenRouter API key: 
 
 ```
 OPENROUTER_API_KEY=your_openrouter_api_key_here
 ```
 
-You can generate an API key from your OpenRouter account dashboard. [web:18]
+You can generate an API key from your OpenRouter account dashboard. 
 
 ---
 
@@ -41,7 +41,7 @@ You can load the extension manually in your browser for development or testing.
    ```
    Or download the ZIP file from GitHub and extract it.
 
-2. **Create your `.env` file** in the project root and add your OpenRouter API key as shown above. [web:9][web:12]
+2. **Create your `.env` file** in the project root and add your OpenRouter API key as shown above. 
 
 3. Open Chrome and go to:
    ```
